@@ -33,7 +33,6 @@
   .product-description .full-description {
     display: none;
   }
-
   h1 {
     margin-top: 0;
 
@@ -43,6 +42,7 @@
     width: 100%;
     height: auto;
   }
+  
 
   p {
     color:white;
@@ -85,16 +85,11 @@
   input[type="text"][name="card-number"], input[type="text"][name="expiry-date"], input[type="text"][name="cvv"] {
     width: 30%;
   }
-  
 
-  #address { 
-    color: #fff;
+  .see-more-button{
+    color: #F27405;
   }
 
-  #name {
-    color: #fff;
-  }
-  
   .price {
     color: #F27405;
     font-size: 1.5em;
