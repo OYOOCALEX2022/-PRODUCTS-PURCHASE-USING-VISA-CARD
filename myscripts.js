@@ -12,6 +12,7 @@ document.addEventListener("DOMContentLoaded", function () {
     }
   });
 });
+
 // Get references to the form elements
 const form = document.getElementById("payment-form");
 const cardNumber = document.getElementById("card-number");
